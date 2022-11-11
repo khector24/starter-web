@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kenny Hector kennyhector24@gmail.com @khector24
 
 # THANKS
 
